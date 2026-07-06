@@ -1,0 +1,352 @@
+[
+  {
+    "id": "001",
+    "sender": "cto@clientcorp.com",
+    "subject": "URGENT: Production server down",
+    "body": "Our production environment has been down for 20 minutes. Customers cannot access the platform. We need an immediate response and estimated time to fix.",
+    "timestamp": "2026-06-01T06:00:00"
+  },
+  {
+    "id": "002",
+    "sender": "security@paymentgate.io",
+    "subject": "Suspicious login attempts on your merchant account",
+    "body": "We detected 47 failed login attempts on your merchant account within the last hour, originating from multiple IP ranges. Access has been temporarily restricted. Please verify your account immediately and rotate your API credentials.",
+    "timestamp": "2026-06-02T09:17:00"
+  },
+  {
+    "id": "003",
+    "sender": "j.brenner@steelworks-gmbh.at",
+    "subject": "Machine stopped mid-production - order #4471 at risk",
+    "body": "The CNC unit stopped again with error E-204 and we have a delivery deadline tomorrow morning for order #4471. If we can't restart within the next two hours we will miss the shipment. Please call me back as soon as you read this. +43 664 5551234",
+    "timestamp": "2026-06-03T12:34:00"
+  },
+  {
+    "id": "004",
+    "sender": "legal@vendorpartners.com",
+    "subject": "Contract termination notice - response required within 48h",
+    "body": "This is a formal notice regarding clause 12.3 of our service agreement. Due to repeated SLA violations in May, we are initiating the termination process. You have 48 hours to respond with a remediation plan before the termination becomes effective.",
+    "timestamp": "2026-06-04T15:51:00"
+  },
+  {
+    "id": "005",
+    "sender": "monitoring@uptimebot.net",
+    "subject": "ALERT: API error rate above 15% for 10 minutes",
+    "body": "Automated alert: The error rate on endpoint /api/v2/checkout has exceeded 15% for the past 10 minutes. Affected region: eu-central. This threshold is classified as critical in your alerting policy.",
+    "timestamp": "2026-06-05T18:08:00"
+  },
+  {
+    "id": "006",
+    "sender": "m.hofer@apotheke-mitte.at",
+    "subject": "Wrong medication delivered - need replacement TODAY",
+    "body": "You delivered the wrong items in order #88213 this morning. We received 40 units of product A-113 instead of A-131. We have patients waiting for these. A replacement must arrive today, otherwise we have to escalate this with your management.",
+    "timestamp": "2026-06-01T07:25:00"
+  },
+  {
+    "id": "007",
+    "sender": "anna.leitner@gmail.com",
+    "subject": "Question about my order #10592",
+    "body": "Hi, I placed order #10592 last Tuesday and the tracking still shows 'label created'. Could you check what's going on? I need the parts before the weekend if possible. Thanks, Anna",
+    "timestamp": "2026-06-02T10:42:00"
+  },
+  {
+    "id": "008",
+    "sender": "purchasing@bergmann-industries.de",
+    "subject": "Request for quote: 500 units, custom specification",
+    "body": "Dear Sir or Madam, we are looking for a supplier for approx. 500 units per quarter according to the attached specification. Could you send us a quote including bulk pricing and lead times? We would need first delivery in August.",
+    "timestamp": "2026-06-03T13:59:00"
+  },
+  {
+    "id": "009",
+    "sender": "t.kovacs@freemail.hu",
+    "subject": "Return request - item arrived damaged",
+    "body": "Hello, the housing of the device I ordered (order #10544) has a visible crack, probably from transport. I would like to return it for a replacement. How should I proceed? Do you send a return label or do I have to organize shipping myself?",
+    "timestamp": "2026-06-04T16:16:00"
+  },
+  {
+    "id": "010",
+    "sender": "office@tischlerei-maier.at",
+    "subject": "Invoice #2026-0455 - amount seems incorrect",
+    "body": "We received invoice #2026-0455 today. The total is 2.340 EUR but our purchase order was for 1.980 EUR. It looks like the old price list was used. Can you check and send a corrected invoice?",
+    "timestamp": "2026-06-05T19:33:00"
+  },
+  {
+    "id": "011",
+    "sender": "sarah.winkler@consultpro.at",
+    "subject": "Follow-up: proposal from our call last week",
+    "body": "Hi, following up on our call from last Thursday. You mentioned you'd send the revised proposal by Monday - I haven't received anything yet. Could you give me an update on the timeline? Our budget meeting is on the 12th.",
+    "timestamp": "2026-06-01T08:50:00"
+  },
+  {
+    "id": "012",
+    "sender": "d.novak@retailplus.cz",
+    "subject": "Change delivery address for order #10601",
+    "body": "Hello, we need to change the delivery address for order #10601. It should go to our new warehouse: Skladova 14, 60200 Brno, instead of the old address. The order has not shipped yet according to tracking. Please confirm the change.",
+    "timestamp": "2026-06-02T11:07:00"
+  },
+  {
+    "id": "013",
+    "sender": "peter.gruber@aon.at",
+    "subject": "Re: Re: Re: Replacement part availability",
+    "body": "> On June 2nd you wrote:\n>> We expect the part back in stock mid-June.\n>\n> Is there any way to get it sooner? Even a used one would work.\n\nSorry to push again, but mid-June is really too late for us. Is there a compatible alternative part you could recommend instead? Happy to pay express shipping.\n\nBest,\nPeter",
+    "timestamp": "2026-06-03T14:24:00"
+  },
+  {
+    "id": "014",
+    "sender": "hr@mycompany.com",
+    "subject": "Please confirm your attendance: fire safety training June 15",
+    "body": "The annual fire safety training takes place on June 15th, 9:00-11:00 in meeting room B. Attendance is mandatory. Please reply to confirm your participation or propose one of the alternative dates (June 18, June 22).",
+    "timestamp": "2026-06-04T17:41:00"
+  },
+  {
+    "id": "015",
+    "sender": "k.steiner@hotelpanorama.at",
+    "subject": "Cancellation and partial refund",
+    "body": "Good morning, we ordered 12 units (order #10577) but our renovation project was scaled down and we only need 8. Can we cancel 4 units and get a refund for those? Nothing has been delivered yet.",
+    "timestamp": "2026-06-05T06:58:00"
+  },
+  {
+    "id": "016",
+    "sender": "lukas.b@gmx.at",
+    "subject": "Which model fits my setup?",
+    "body": "Hi! I'm looking at the X200 and the X300 on your site. My setup: single-phase 230V, garage workshop, hobby use maybe 2-3 hours a week. The X300 looks nicer but is it overkill? Would appreciate an honest recommendation before I order.",
+    "timestamp": "2026-06-01T09:15:00"
+  },
+  {
+    "id": "017",
+    "sender": "accounting@fleetlogix.com",
+    "subject": "Missing credit note for returned goods",
+    "body": "Dear team, we returned 15 units on May 19th (RMA-3382, delivery confirmation attached in our previous mail). The return was confirmed received on May 23rd, but we still haven't received the credit note. Please send it this week so we can close the month.",
+    "timestamp": "2026-06-02T12:32:00"
+  },
+  {
+    "id": "018",
+    "sender": "c.wagner@eventura.at",
+    "subject": "Urgent-ish: can you deliver by June 20?",
+    "body": "Hi, we have a trade fair on June 21st and would need 3 display units by June 20th at the latest. Your website says 5-7 business days shipping which would be cutting it close. Can you guarantee delivery by the 20th if we order today? If not, no hard feelings, just let us know.",
+    "timestamp": "2026-06-03T15:49:00"
+  },
+  {
+    "id": "019",
+    "sender": "f.moser@bauhof-krems.at",
+    "subject": "Complaint about support experience",
+    "body": "I have now called your support line three times this week and was promised a callback each time. Nobody called. The issue itself (registration code not accepted) is still unresolved. I am starting to regret this purchase. Please have someone competent contact me.",
+    "timestamp": "2026-06-04T18:06:00"
+  },
+  {
+    "id": "020",
+    "sender": "elena.p@studioform.it",
+    "subject": "Partnership inquiry - reseller conditions",
+    "body": "Buongiorno, we run a design studio in Bolzano and regularly recommend your products to clients. We would be interested in becoming a reseller. Could you send information about your partner program, margins and minimum order quantities?",
+    "timestamp": "2026-06-05T07:23:00"
+  },
+  {
+    "id": "021",
+    "sender": "m.aigner@landmaschinen-aigner.at",
+    "subject": "Bestellung #10611 - Lieferung unvollständig",
+    "body": "Sehr geehrte Damen und Herren, in der heutigen Lieferung zu Bestellung #10611 fehlen 2 von 6 Positionen (Pos. 3 und Pos. 5 laut Lieferschein). Bitte um Info, wann die fehlenden Teile nachgeliefert werden. Mit freundlichen Grüßen, Martin Aigner",
+    "timestamp": "2026-06-01T10:40:00"
+  },
+  {
+    "id": "022",
+    "sender": "jobs@techrecruit.at",
+    "subject": "Candidate for your open Python position - available immediately",
+    "body": "Hello, we have a strong candidate (5 years Python, ETL pipelines, available immediately) who matches the job ad you posted in April. Is the position still open? If yes, I'll send the profile over. Our placement terms are the usual 20%.",
+    "timestamp": "2026-06-02T13:57:00"
+  },
+  {
+    "id": "023",
+    "sender": "r.schmid@zimmerei-schmid.at",
+    "subject": "(no subject)",
+    "body": "Hi, quick question, does the warranty also cover the battery or only the device itself? Mine drains within an hour now, bought it 14 months ago. Roland",
+    "timestamp": "2026-06-03T16:14:00"
+  },
+  {
+    "id": "024",
+    "sender": "b.huber@kanzlei-huber.at",
+    "subject": "Data processing agreement needed",
+    "body": "Dear team, before we can roll out your software to our staff, our compliance requires a signed data processing agreement (DPA) according to GDPR Art. 28. Do you have a standard template? Please send it for review.",
+    "timestamp": "2026-06-04T19:31:00"
+  },
+  {
+    "id": "025",
+    "sender": "hr@mycompany.com",
+    "subject": "Office closed on June 9th",
+    "body": "Just a reminder that the office will be closed on Monday June 9th due to a public holiday. No action needed, just plan accordingly.",
+    "timestamp": "2026-06-05T08:48:00"
+  },
+  {
+    "id": "026",
+    "sender": "noreply@dhl.at",
+    "subject": "Your shipment 00340434292135 has been delivered",
+    "body": "Your shipment was delivered on 03.06.2026 at 10:42 and was handed to the recipient. Thank you for using DHL.",
+    "timestamp": "2026-06-01T11:05:00"
+  },
+  {
+    "id": "027",
+    "sender": "billing@cloudhost.eu",
+    "subject": "Your invoice for May 2026 is available",
+    "body": "Your monthly invoice (EUR 49.90) is now available in your customer portal. The amount will be debited from your registered payment method on June 10th. No action is required.",
+    "timestamp": "2026-06-02T14:22:00"
+  },
+  {
+    "id": "028",
+    "sender": "it@mycompany.com",
+    "subject": "Scheduled maintenance: file server offline Saturday night",
+    "body": "The file server will be offline for maintenance this Saturday between 22:00 and 02:00. Save your work before the weekend. Email and chat are not affected.",
+    "timestamp": "2026-06-03T17:39:00"
+  },
+  {
+    "id": "029",
+    "sender": "noreply@bank-austria.at",
+    "subject": "Your account statement is ready",
+    "body": "Your electronic account statement for May 2026 is now available in your online banking inbox. Please note that statements are archived after 24 months.",
+    "timestamp": "2026-06-04T06:56:00"
+  },
+  {
+    "id": "030",
+    "sender": "team@projecthub.io",
+    "subject": "Weekly summary: 14 tasks completed",
+    "body": "Here's your weekly project summary: 14 tasks completed, 6 in progress, 2 overdue. Most active project: Website Relaunch. View the full report in your dashboard.",
+    "timestamp": "2026-06-05T09:13:00"
+  },
+  {
+    "id": "031",
+    "sender": "office@steuerberatung-krainer.at",
+    "subject": "Confirmation: documents received",
+    "body": "Dear client, we confirm receipt of your documents for the Q2 advance VAT return. Processing will be completed by June 12th. We will only contact you if anything is missing.",
+    "timestamp": "2026-06-01T12:30:00"
+  },
+  {
+    "id": "032",
+    "sender": "noreply@meetingroom.app",
+    "subject": "Booking confirmed: Room B, June 6, 14:00-15:00",
+    "body": "",
+    "timestamp": "2026-06-02T15:47:00"
+  },
+  {
+    "id": "033",
+    "sender": "updates@ollama.com",
+    "subject": "Release notes: version 0.9.2",
+    "body": "Version 0.9.2 is now available. Changes: improved GPU memory management, fixed a crash when loading quantized models over 30B parameters, new experimental flag for parallel request handling. Update via your package manager.",
+    "timestamp": "2026-06-03T18:04:00"
+  },
+  {
+    "id": "034",
+    "sender": "post@wko.at",
+    "subject": "Ihre Mitgliedsdaten wurden aktualisiert",
+    "body": "Sehr geehrtes Mitglied, Ihre Daten wurden wie beantragt aktualisiert. Die Änderung ist ab sofort wirksam. Es sind keine weiteren Schritte erforderlich.",
+    "timestamp": "2026-06-04T07:21:00"
+  },
+  {
+    "id": "035",
+    "sender": "newsletter@techdigest.io",
+    "subject": "Your weekly tech digest is here",
+    "body": "This week in tech: AI breakthroughs, new JavaScript frameworks nobody asked for, and why everyone is talking about Rust again. Click to read more.",
+    "timestamp": "2026-06-05T10:38:00"
+  },
+  {
+    "id": "036",
+    "sender": "digest@pythonweekly.com",
+    "subject": "Python Weekly - Issue 712",
+    "body": "In this issue: What's new in Python 3.14, a deep dive into free-threading performance, 5 underrated standard library modules, and this week's community projects. Read online or unsubscribe below.",
+    "timestamp": "2026-06-01T13:55:00"
+  },
+  {
+    "id": "037",
+    "sender": "news@heise.de",
+    "subject": "heise online Newsletter: Die Themen des Tages",
+    "body": "Die wichtigsten IT-Nachrichten heute: Neue EU-Regulierung für KI-Systeme tritt in Kraft +++ Rechenzentren und Stromverbrauch: die aktuellen Zahlen +++ Test: die besten NAS-Systeme 2026. Zum Abbestellen klicken Sie hier.",
+    "timestamp": "2026-06-02T16:12:00"
+  },
+  {
+    "id": "038",
+    "sender": "hello@indiehackers-digest.com",
+    "subject": "How a solo dev hit $10k MRR with a boring product",
+    "body": "This week's stories: A solo founder shares how a simple PDF tool reached $10k MRR, why niching down beats going broad, and 3 landing page teardowns. Plus: 12 new products launched by the community.",
+    "timestamp": "2026-06-03T19:29:00"
+  },
+  {
+    "id": "039",
+    "sender": "newsletter@godotengine.org",
+    "subject": "Godot Engine - June development update",
+    "body": "<html><body><h1>Godot June Update</h1><p>Progress on the rendering pipeline, new TileMap features and GDScript performance improvements.</p><a href='#'>Read the full post</a><img src='tracking.gif'></body></html>",
+    "timestamp": "2026-06-04T08:46:00"
+  },
+  {
+    "id": "040",
+    "sender": "team@fiverr.com",
+    "subject": "5 tips to make your gigs stand out this summer",
+    "body": "Seller newsletter: Buyers are searching for automation and AI services more than ever. Here are 5 ways to optimize your gig titles, thumbnails and pricing tiers to catch the summer demand wave.",
+    "timestamp": "2026-06-05T11:03:00"
+  },
+  {
+    "id": "041",
+    "sender": "no-reply@meetup.com",
+    "subject": "New events near you: Python Vienna, AI Builders Linz",
+    "body": "Based on your interests, these upcoming events might be for you: Python Vienna Monthly Meetup (June 11), AI Builders Linz (June 17), Godot Game Dev Stammtisch (June 24). RSVP now to save your spot.",
+    "timestamp": "2026-06-01T14:20:00"
+  },
+  {
+    "id": "042",
+    "sender": "no-reply@randomshop.com",
+    "subject": "You left something in your cart!",
+    "body": "Don't forget! Items in your cart are selling fast. Complete your purchase now and get 10% off with code BUYNOW.",
+    "timestamp": "2026-06-02T17:37:00"
+  },
+  {
+    "id": "043",
+    "sender": "winner-notification@lucky-draw-intl.top",
+    "subject": "CONGRATULATIONS!!! You have been selected",
+    "body": "DEAR LUCKY WINNER, your email address has WON 850,000 EUR in the International Email Lottery. To claim your prize, reply with your full name, address, date of birth and bank details. This offer EXPIRES IN 24 HOURS!!!",
+    "timestamp": "2026-06-03T06:54:00"
+  },
+  {
+    "id": "044",
+    "sender": "seo-expert2026@outreach-masters.net",
+    "subject": "I noticed your website is not ranking on Google",
+    "body": "Hi, I was browsing your website and noticed you are missing out on 1000s of visitors. My team can get you to PAGE 1 of Google in 30 days, guaranteed. Prices start at only $99. When can we schedule a quick call?",
+    "timestamp": "2026-06-04T09:11:00"
+  },
+  {
+    "id": "045",
+    "sender": "support@amaz0n-secure-verify.info",
+    "subject": "Your account has been locked - verify now",
+    "body": "Dear customer, unusual activity was detected on your account. Your account has been temporarily locked. Click here to verify your identity within 24 hours or your account will be permanently deleted: http://amaz0n-secure-verify.info/login",
+    "timestamp": "2026-06-05T12:28:00"
+  },
+  {
+    "id": "046",
+    "sender": "crypto-signals@moonshot-vip.club",
+    "subject": "This coin will 100x next week (insider info)",
+    "body": "Our VIP group called the last 3 pumps BEFORE they happened. Join now for FREE and get our next signal. 10,000+ members already profiting. Limited spots available. Not financial advice ;)",
+    "timestamp": "2026-06-01T15:45:00"
+  },
+  {
+    "id": "047",
+    "sender": "pharma-deals@cheap-meds-online.biz",
+    "subject": "Best prices, no prescription needed",
+    "body": "Top quality medications at 80% discount. Discreet shipping worldwide. No prescription, no questions. Visit our shop today and use code FIRST20.",
+    "timestamp": "2026-06-02T18:02:00"
+  },
+  {
+    "id": "048",
+    "sender": "invest@golden-future-fund.xyz",
+    "subject": "Re: Your investment payout",
+    "body": "As discussed, your payout of 12,500 EUR is ready for transfer. We only need a small processing fee of 150 EUR to release the funds. Please transfer via the link below and receive your payout within 48 hours.",
+    "timestamp": "2026-06-03T07:19:00"
+  },
+  {
+    "id": "049",
+    "sender": "hot-singles@dating-tonight.top",
+    "subject": "Someone near you viewed your profile 3 times",
+    "body": "You have 5 unread messages waiting! Singles in your area are looking for someone like you. Activate your free profile now, no credit card required (today only).",
+    "timestamp": "2026-06-04T10:36:00"
+  },
+  {
+    "id": "050",
+    "sender": "noreply@webinar-goldrush.com",
+    "subject": "LAST CHANCE: Free webinar - quit your job in 90 days",
+    "body": "Tomorrow 8pm: Learn the exact system our students use to build passive income empires. Usually $497, FREE for the next 24 hours. Seats are 97% full. Register now before it's too late!",
+    "timestamp": "2026-06-05T13:53:00"
+  }
+]
